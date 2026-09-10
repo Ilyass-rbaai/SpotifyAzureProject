@@ -1,0 +1,15 @@
+{
+	"name": "df-spotifyAzurePoject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "spaincentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc03c4d1-eb25-4c6b-b6a7-91d84e6ca2d0",
+		"tenantId": "f93d5f40-88c0-4650-b8f2-cc4ec3ef6a10"
+	}
+}
