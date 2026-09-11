@@ -273,8 +273,8 @@ Interrogation SQL de la table `gold.dim_track`, prête pour l'analyse.
 ## 👤 Auteur
 
 **Ilyass Rbaai**
-École Marocaine des Sciences de l'Ingénieur (EMSI)
-🔗 [github.com/Ilyass-rbaai](https://github.com/Ilyass-rbaai)
+École Marocaine des Sciences de l'Ingénieur 
+🔗 R’BAAI Ilyass
 
 ---
 
